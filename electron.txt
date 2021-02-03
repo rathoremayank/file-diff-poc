@@ -1,1 +1,2 @@
-Electrons are the lightest sub-atomic particles. Most of the mass of an atom resides at the nucleus. 
+Electrons are the lightest sub-atomic particles. Most of the mass of an atom resides at the nucleus.
+The charge on an electron is assumed to be of 1 -ve unit. 
